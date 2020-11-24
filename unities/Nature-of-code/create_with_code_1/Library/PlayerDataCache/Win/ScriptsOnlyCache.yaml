@@ -490,4 +490,5 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Scenes/exercise1.8.unity
-  playerPath: C:/Users/Quinn/OneDrive/Columbia/Simulation and Serious Games/simulation-and-serious-games/unities/Nature-of-code/create_with_code_1/Builds/create_with_code_1.exe
+  playerPath: C:/Users/Quinn/OneDrive/Columbia/Simulation and Serious Games/simulation-and-serious-games/unities/Nature-of-code/Builds
+    1/Exercise 1.8/create_with_code_1.exe
