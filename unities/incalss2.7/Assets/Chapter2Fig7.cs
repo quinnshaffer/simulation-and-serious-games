@@ -136,8 +136,9 @@ public class Mover2_7
     {
         CheckEdges();
         if (movingTowardsPlayer) {
-            this.ApplyForce();    
+            this.ApplyForce(TOWARDSPLAYER placeholder);    
         }
+        
     }
 
     public void CheckEdges()
