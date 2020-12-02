@@ -65,9 +65,11 @@
   <ItemGroup>
     <Compile Include="Assets\Chapter2Fig2.cs" />
     <Compile Include="Assets\Chapter2Fig5.cs" />
-    <Compile Include="Assets\Chapter2Fig7.cs" />
     <Compile Include="Assets\Chapter2Fig8.cs" />
+    <Compile Include="Assets\Ecosystem Scripts\Chapter2Fig7.cs" />
+    <Compile Include="Assets\Ecosystem Scripts\chapter1Creature.cs" />
     <Compile Include="Assets\Exercise2_6.cs" />
+    <Compile Include="Assets\ecosystemEngine.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
